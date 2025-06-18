@@ -8,7 +8,7 @@
 
 Sou um profissional que acredita na integração entre análise de dados, desenvolvimento de sistemas e marketing digital para gerar resultados inovadores e estratégicos. Minha experiência nessas áreas me permite transformar dados em soluções tecnológicas eficientes e criar estratégias de comunicação que potencializam o impacto dos projetos.
 
-Atualmente, lidero iniciativas de inclusão e acolhimento como presidente do Coletivo Transtornados, unindo tecnologia e responsabilidade social para promover mudanças positivas.
+Atualmente, lidero iniciativas de inclusão e acolhimento como presidente do Coletivo Transtornados, unindo tecnologia e responsabilidade social.
 
 ---
 
