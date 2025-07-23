@@ -4,24 +4,6 @@
 
 ---
 
-**Sobre Mim**
-
-Sou um profissional que acredita na integração entre análise de dados, desenvolvimento de sistemas e marketing digital para gerar resultados inovadores e estratégicos. Minha experiência nessas áreas me permite transformar dados em soluções tecnológicas eficientes e criar estratégias de comunicação que potencializam o impacto dos projetos.
-
-Atualmente, lidero iniciativas de inclusão e acolhimento como presidente do Coletivo Transtornados, unindo tecnologia e responsabilidade social.
-
----
-
-**Em Destaque**
-
-- 📊 Transformo dados em decisões estratégicas e soluções tecnológicas.
-- 💻 Desenvolvimento de sistemas escaláveis e aderentes às normas regulatórias.
-- 📈 Experiência em marketing digital, SEO e social media.
-- 🏳️‍⚧️ Liderança em projetos de inclusão e diversidade.
-- 🎯 Busco sempre inovação, eficiência e impacto social.
-
----
-
 **Conecte-se comigo**
 
 - [LinkedIn](https://www.linkedin.com/in/gabrieldelduca)
