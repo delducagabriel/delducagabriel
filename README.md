@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Del'Duca 👋
 
-**`Desenvolvedor Full Stack | Analista de Dados | Marketing Digital`**
+**`Desenvolvedor Back End | Analista de Dados | Marketing Digital`**
 
 ---
 
