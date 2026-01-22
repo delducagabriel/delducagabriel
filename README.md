@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Del'Duca 👋
 
-**`Desenvolvedor Back End | Analista de Dados | Marketing Digital`**
+**`Gerente de Projetos & Desenvolvedor Back End | Automação e IA`**
 
 ---
 
@@ -15,19 +15,19 @@
 
 <img
   align="left"
-  alt="HTML"
-  title="HTML"
+  alt="Python"
+  title="Python"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img
   align="left"
-  alt="CSS"
-  title="CSS"
+  alt="Java"
+  title="Java"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"          
 />
 <img
   align="left"
@@ -39,27 +39,33 @@
 />
 <img
   align="left"
-  alt="SQL"
-  title="SQL"
+  alt="Node"
+  title="Node"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"          
 />
 <img
   align="left"
-  alt="Python"
-  title="Python"
+  alt="Go"
+  title="Go"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
 />
 <img
   align="left"
-  alt="PHP"
-  title="PHP"
+  alt="React"
+  title="React"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" 
-/>
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>    
 
 <br clear="left"/>
+
+---
+
+**Estatísticas** 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delducagabriel&layout=compact)
