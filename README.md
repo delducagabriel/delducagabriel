@@ -7,7 +7,7 @@
 **Conecte-se comigo**
 
 - [LinkedIn](https://www.linkedin.com/in/gabrieldelduca)
-- [E-mail](mailto:delducadev@gmail.com)
+- [E-mail](mailto:delducatgabriel@gmail.com)
 
 ---
 
@@ -64,8 +64,3 @@
 
 <br clear="left"/>
 
----
-
-**Estatísticas** 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=delducagabriel&layout=compact)
