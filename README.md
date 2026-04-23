@@ -53,6 +53,7 @@
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />         
+<br clear="left"/>
 <img
   align="left"
   alt="Node"
@@ -93,6 +94,4 @@
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />        
-
 <br clear="left"/>
-
