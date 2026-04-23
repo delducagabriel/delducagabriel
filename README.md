@@ -1,6 +1,6 @@
 # Olá, eu sou Gabriel Del'Duca 👋
 
-**`Gerente de Projetos & Desenvolvedor Back End | Automação e IA`**
+**`Engenheiro de Software`**
 
 ---
 
